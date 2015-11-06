@@ -1,0 +1,23 @@
+{
+  "name": "es6-minify",
+  "version": "0.0.0",
+  "description": "Simplistic ES6 minifier",
+  "main": "es6-minify.js",
+  "keywords": [
+    "shift",
+    "ast",
+    "minify",
+    "es6",
+    "es2015"
+  ],
+  "author": "Ariya Hidayat",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ariya/es6-minify.git"
+  },
+  "dependencies": {
+    "shift-codegen": "~3.0.0",
+    "shift-parser": "~3.0.5"
+  }
+}
